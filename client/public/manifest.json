@@ -1,0 +1,25 @@
+{
+  "short_name": "All Things Auth",
+  "name": "All Things Auth - React with Auth0",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "allthingsauth-logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "allthingsauth-logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#95a5a6",
+  "background_color": "#d1d1d0"
+}
